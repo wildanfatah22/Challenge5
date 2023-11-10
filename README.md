@@ -8,6 +8,7 @@
 5. Menerapkan localization untuk 2 bahasa (10 poin).
 6. Menerapkan android styling (20 poin).
 
+## Hasil Challenge
 1. Mengunakan Github API sebagai API public untuk challenge ini
 2. Menggunakan android permission Internet di manifest
 3. DataStore digunakan untuk menyimpan konfigurasi Light Mode dan Dark Mode. Namun saya belum sempat mengotak-ngatik terlalu dalam untuk memperbaiki UI di light mode.
